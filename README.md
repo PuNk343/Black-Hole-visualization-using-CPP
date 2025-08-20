@@ -59,3 +59,5 @@ for 3D: black_hole.cpp and geodesic.comp work together to run the simuation fast
 should work with nessesary dependencies installed, however I have only run it on windows with my GPU so am not sure!
 
 LMK if you would like an in-depth explanation of how the code works aswell :)
+
+Please note that this is an imported/inspired project from Kavan010's black_hole project. 
